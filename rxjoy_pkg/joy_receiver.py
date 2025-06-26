@@ -1,5 +1,5 @@
 
-### Reciver
+### Receiver
 import json, zmq, rclpy
 from rclpy.node import Node
 from sensor_msgs.msg import Joy
