@@ -20,7 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "rxjoy_node = rxjoy_pkg.joy_reciever:main",
+            "rxjoy_node = rxjoy_pkg.joy_receiver:main",
         ],
     },
 )
